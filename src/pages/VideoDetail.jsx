@@ -27,7 +27,7 @@ export default function VideoDetail() {
           <pre className="whitespace-pre-wrap bg-zinc-700/60 text-blue-500/100">{description}</pre>
         </div>
       </article>
-      {/* 관련 비디오 */}
+      {/* 관련 비디오   */}
       <section className="basis-2/6">
         <RelatedVideos id={video.id} />
       </section>
