@@ -1,3 +1,5 @@
+// **** 외부로 받은 데이터 받기
+
 import axios from 'axios';
 
 export default class YoutubeClient {

@@ -250,15 +250,7 @@
           }
         },
         "channelTitle": "GloRillaVEVO",
-        "tags": [
-          "GloRilla",
-          "Cardi",
-          "Tomorrow",
-          "CMG/Interscope",
-          "Records",
-          "Hip",
-          "Hop"
-        ],
+        "tags": ["GloRilla", "Cardi", "Tomorrow", "CMG/Interscope", "Records", "Hip", "Hop"],
         "categoryId": "10",
         "liveBroadcastContent": "none",
         "localized": {
@@ -857,13 +849,7 @@
           }
         },
         "channelTitle": "I did a thing",
-        "tags": [
-          "science",
-          "education",
-          "comedy",
-          "i did a thing",
-          "mythbusters"
-        ],
+        "tags": ["science", "education", "comedy", "i did a thing", "mythbusters"],
         "categoryId": "24",
         "liveBroadcastContent": "none",
         "localized": {
@@ -1157,12 +1143,7 @@
           }
         },
         "channelTitle": "Chunkz",
-        "tags": [
-          "Chunkz Entertainment",
-          "comedy",
-          "family friendly",
-          "Funny Challenges Fun"
-        ],
+        "tags": ["Chunkz Entertainment", "comedy", "family friendly", "Funny Challenges Fun"],
         "categoryId": "24",
         "liveBroadcastContent": "none",
         "localized": {
@@ -1264,12 +1245,7 @@
           }
         },
         "channelTitle": "S2G",
-        "tags": [
-          "Barcelona career mode",
-          "fifa 23 career mode",
-          "fifa 23",
-          "Barca career mode"
-        ],
+        "tags": ["Barcelona career mode", "fifa 23 career mode", "fifa 23", "Barca career mode"],
         "categoryId": "20",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en-GB",

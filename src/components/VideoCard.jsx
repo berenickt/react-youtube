@@ -1,11 +1,13 @@
 import React from 'react';
-import { formatAgo } from '../util/date';
+import { formatAgo } from '../util/date'; // timeago.js 라이브러리, 날짜 포매팅
 import { useNavigate } from 'react-router-dom';
 
+// **** 비디오 카드
 export default function VideoCard({ video, type }) {
   const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
   const navigate = useNavigate();
   const isList = type === 'list';
+
   return (
     <li
       className={isList ? 'flex gap-1 m-2' : ''}

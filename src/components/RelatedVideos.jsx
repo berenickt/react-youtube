@@ -12,6 +12,7 @@ export default function RelatedVideos({ id }) {
   } = useQuery(['related', id], () => youtube.relatedVideos(id), {
     staleTime: 1000 * 60 * 5,
   });
+
   return (
     <>
       {isLoading && <p>Loading...</p>}
